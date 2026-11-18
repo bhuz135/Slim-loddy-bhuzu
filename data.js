@@ -7,8 +7,8 @@ window.SLB = {
   email: 'slimyloddie@gmail.com',
 
   socials: {
-    YouTube: 'https://www.youtube.com/channel/UCFesxulrEtvGL2Z-5Lu4scA',
-    Facebook: 'https://www.facebook.com/p/Slim-loddy-BHUZU-100049103906943/',
+    YouTube: 'https://www.youtube.com/@slim_loddy_bhuzu',
+    Facebook: 'https://web.facebook.com/cibo.khumalo',
     LinkTree: 'https://linktr.ee/slimloddybhuzu?subscribe'
   },
 
