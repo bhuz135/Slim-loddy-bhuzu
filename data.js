@@ -4,11 +4,12 @@
 */
 window.SLB = {
   // Shown in the Contact section if filled in
-  email: '',
+  email: 'slimyloddie@gmail.com',
 
   socials: {
     YouTube: 'https://www.youtube.com/channel/UCFesxulrEtvGL2Z-5Lu4scA',
-    Facebook: 'https://www.facebook.com/p/Slim-loddy-BHUZU-100049103906943/'
+    Facebook: 'https://www.facebook.com/p/Slim-loddy-BHUZU-100049103906943/',
+    LinkTree: 'https://linktr.ee/slimloddybhuzu?subscribe'
   },
 
   // Videos. Add as many as you like. Use a YouTube link, or a local file in /videos.
@@ -19,6 +20,10 @@ window.SLB = {
   // type: 'Single' or 'Feature'. note: collaborators. link: streaming link for that release.
   releases: [
     { year: 2026, title: 'Opay', type: 'Feature', note: 'McDow, TNYCLVW', link: '' },
+    { year: 2026, title: 'Nomathemba', type: 'Single', note: '', link: 'https://open.spotify.com/album/2OKIVFcguk5d0NwmIMpGIM?si=DKNxV6c0Rc2XLUsCmdcLxw&utm_source=copy-link' },
+    { year: 2026, title: '03:00am', type: 'EP', note: '', link: 'https://open.spotify.com/album/6fkOri06pbfCe7qGxpIzH0?si=oqLZMuN-R-WvQZQWeTYd6Q&utm_source=copy-link' },
+    { year: 2026, title: '15yearsVAT', type: 'Album', note: '', link: 'https://open.spotify.com/album/29v43O5ukGaEv82z4TUmPJ?si=wEMXVdsISS2UVXcrXlbWpw&utm_source=copy-link' },
+    { year: 2026, title: 'All I Know is Grind', type: 'Single', note: '', link: 'https://open.spotify.com/album/1Z2Qj9x2BgqVpzIbGFA6Si?si=19nBdMDeRvSSdpXnC3Of3Q&utm_source=copy-link' },
 
     { year: 2025, title: 'Lucid Traumas', type: 'Feature', note: 'Ovek', link: 'https://music.apple.com/ca/album/lucid-traumas-feat-slim-loddy-bhuzu-single/1833441110' },
     { year: 2025, title: 'Dream', type: 'Single', note: '', link: '' },
