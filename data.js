@@ -50,4 +50,4 @@ window.SLB = {
     { year: 2023, title: 'Ziyawe Roundin', type: 'Single', note: '', link: '' }
   ]
 };
-[year:2026 title:qubula ziyasha type:single https://open.spotify.com/album/1ZrAh6nVQderwqZHExYYL6?si=qsKhoQvgQgCeYpynfWLf8g&utm_source=copy-link&sci=spotify%3Acard-config%3A2XtmH9FMazz9Bk45GGO6Fh
+year:2026 title:qubula ziyasha type:single https://open.spotify.com/album/1ZrAh6nVQderwqZHExYYL6?si=qsKhoQvgQgCeYpynfWLf8g&utm_source=copy-link&sci=spotify%3Acard-config%3A2XtmH9FMazz9Bk45GGO6Fh]
