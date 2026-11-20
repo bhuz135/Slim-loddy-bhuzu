@@ -16,7 +16,8 @@ window.SLB = {
   // { title: 'Video title', youtube: 'https://youtu.be/XXXXXXXXXXX', year: 2024, type: 'Music video' }
   // { title: 'Video title', src: 'videos/clip.mp4', poster: 'images/clip.jpg' }
   videos: [
-    { title: 'Freestyle', src: 'videos/clip.mp4', poster: 'images/slim-8.png' }
+    { title: 'Freestyle', src: 'videos/clip.mp4', poster: 'images/slim-8.png' },
+    { title: 'video_title, src: 'videos/Location', poster: '' },
   ],
 
   // type: 'Single' or 'Feature'. note: collaborators. link: streaming link for that release.
