@@ -17,7 +17,7 @@ window.SLB = {
   // { title: 'Video title', src: 'videos/clip.mp4', poster: 'images/clip.jpg' }
   videos: [
     { title: 'Freestyle', src: 'videos/clip.mp4', poster: 'images/slim-8.png' },
-    { title: 'video_title, src: 'videos/Location', poster: '' },
+    { title: 'video_title', src: 'videos/location.mp4', poster: '' },
   ],
 
   // type: 'Single' or 'Feature'. note: collaborators. link: streaming link for that release.
